@@ -18,6 +18,7 @@ function Canvas() {
 
     return (
         <div className="canvas">
+            <h1>Here we will upload images</h1>
             <Sketch setup={setup} draw={draw} windowResized={windowResized} ></Sketch>            
         </div>
     )
