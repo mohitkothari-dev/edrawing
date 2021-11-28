@@ -1,1 +1,1 @@
-Drag and Draw on a web page.
+Drag and Drop an Image on a Canvas.
